@@ -1,6 +1,6 @@
 Este documento presenta la planificación y ejecución del Proyecto Storytelling, desarrollado por el equipo 3'S en colaboración con la empresa Store Phone. A través del análisis de datos, visualizaciones interactivas y una presentación web estructurada, buscamos ofrecer insights valiosos sobre la venta de productos Apple y mejorar la toma de decisiones estratégicas.
 
-El Pulso Diario de Apple Store
+**El Pulso Diario de Apple Store**
 
 Esta solapa transporta al usuario al corazón de la operación de ventas de Apple Store, ofreciendo una visión clara y dinámica de las tendencias de consumo.
 A través de un diseño moderno y con elementos interactivos, esta interfaz guía al usuario en la evaluación de las métricas clave de desempeño, ayudando a responder preguntas como:
@@ -8,7 +8,7 @@ A través de un diseño moderno y con elementos interactivos, esta interfaz guí
 🔹 ¿Cuáles son los productos más vendidos y por qué?
 🔹 ¿Qué impacto están teniendo los descuentos en la facturación?
 
-Desempeño de Ventas: ¿Cómo van las ventas en marzo?
+**Desempeño de Ventas: ¿Cómo van las ventas en marzo?**
 El informe presenta un desglose de las ventas bajo dos perspectivas:
  ✔ Ventas con Descuento: $139 millones.
  ✔ Ventas sin Descuento: $154 millones.
