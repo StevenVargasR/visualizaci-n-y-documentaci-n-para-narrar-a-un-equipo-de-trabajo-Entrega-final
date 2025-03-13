@@ -1,5 +1,5 @@
-**“App Store”**
-Los datos de tu empresa, al alcance de tus manos
+# **“App Store”**
+**Los datos de tu empresa, al alcance de tus manos**
 
 **Introduccion**
 Este documento presenta la planificación y ejecución del Proyecto Storytelling, desarrollado por el equipo 3'S en colaboración con la empresa Store Phone. A través del análisis de datos, visualizaciones interactivas y una presentación web estructurada, buscamos ofrecer insights valiosos sobre la venta de productos Apple y mejorar la toma de decisiones estratégicas.
