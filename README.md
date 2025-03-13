@@ -1,7 +1,7 @@
 # **“App Store”**
 ### **Los datos de tu empresa, al alcance de tus manos**
 
-Equipo especialista
+Equipo especialista   ## Las 3´S
 - Steven Vargas Riaño
 - Santiago Beltrán Salazar
 - Sergio García Blanco
